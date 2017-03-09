@@ -34,6 +34,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		708AB44A1E7208A100134AA8 /* Katas.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Katas.playground; sourceTree = "<group>"; };
 		70CBD6BE1E6F4E3E00330697 /* IOS-FirstApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "IOS-FirstApp.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		70CBD6C11E6F4E3E00330697 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		70CBD6C31E6F4E3E00330697 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -105,6 +106,7 @@
 				70CBD6CA1E6F4E3E00330697 /* LaunchScreen.storyboard */,
 				70CBD6CD1E6F4E3E00330697 /* Info.plist */,
 				70CBD6EF1E6F561400330697 /* AppeGuidedTour.playground */,
+				708AB44A1E7208A100134AA8 /* Katas.playground */,
 			);
 			path = "IOS-FirstApp";
 			sourceTree = "<group>";
@@ -508,6 +510,7 @@
 				70CBD6E81E6F4E3E00330697 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		70CBD6E91E6F4E3E00330697 /* Build configuration list for PBXNativeTarget "IOS-FirstAppTests" */ = {
 			isa = XCConfigurationList;
@@ -516,6 +519,7 @@
 				70CBD6EB1E6F4E3E00330697 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		70CBD6EC1E6F4E3E00330697 /* Build configuration list for PBXNativeTarget "IOS-FirstAppUITests" */ = {
 			isa = XCConfigurationList;
@@ -524,6 +528,7 @@
 				70CBD6EE1E6F4E3E00330697 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
