@@ -87,8 +87,57 @@ let igual:Bool = (text1 == text2)
 
 
 let perro = "lego"
-let edad = 16
-let edadCanina = edad * 7
+let edads = 16
+let edadCanina = edads * 7
+
+
+//########################################################
+
+let sx = 10
+let sy = 10
+
+sx == sy
+
+sx != sy
+
+sx > sy
+
+sx < sy
+
+sx >= sy
+
+sx <= sy
+
+//########################################################
+
+x == y && x >= y
+x == y || x >= y
+//########################################################
+var sresultado = ""
+var valorAComparar = "a"
+
+switch valorAComparar {
+    case "a":
+        sresultado = "A"
+    case "b":
+        sresultado = "B"
+    default:
+        sresultado = "default"
+}
+
+//########################################################
+var arregloStrings:[String] = ["a","b","c"]
+arregloStrings[0]
+arregloStrings[1]
+arregloStrings[2]
+//########################################################
+var diccionario = ["key":"1","name":"Jose"]
+diccionario["key"]
+diccionario["name"]
+
+
+
+
 
 
 
